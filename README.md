@@ -139,8 +139,6 @@ The dashboard includes slicers for:
 - Category
 - Year
 
-These slicers allow dynamic filtering and interactive analysis of dashboard visuals.
-
 ---
 
 # Key Business Findings
@@ -164,8 +162,6 @@ This project helped strengthen my understanding of:
 - Interactive reporting
 - Sales trend analysis
 - Business intelligence concepts
-
-Excel dashboards are basically controlled chaos held together by pivot tables and optimism.
 
 ---
 
