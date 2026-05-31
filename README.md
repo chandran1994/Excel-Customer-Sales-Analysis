@@ -20,13 +20,7 @@ The objective of this project is to transform raw business data into meaningful 
 
 # Objectives
 
-1. Analyze overall sales performance across different categories.
-2. Track profit trends over multiple years.
-3. Identify top-performing product categories.
-4. Analyze customer growth over time.
-5. Identify top customers generating profits.
-6. Visualize sales distribution across different states.
-7. Build an interactive dashboard using Excel slicers and charts.
+**The goal of this project was to analyze sales performance data and build an interactive dashboard using Microsoft Excel. By leveraging Pivot Tables, Pivot Charts, Slicers, and Map Visualizations, the dashboard provides insights into sales trends, profitability, customer growth, product performance, and regional sales distribution. The objective was to transform raw sales data into a reporting tool that supports data-driven business decisions.**
 
 ---
 
@@ -143,27 +137,9 @@ The dashboard includes slicers for:
 
 # Key Business Findings
 
-- Technology products generated the highest profit growth.
-- Phones were the top-selling category.
-- Customer growth improved consistently over the years.
-- California contributed the highest sales.
-- Year-end months generated stronger sales performance.
-- A small group of customers contributed significantly to profits.
+**The analysis revealed that Phones were the highest-selling product category, while the Technology segment generated the strongest profit growth over time. California contributed the highest sales among all states, making it one of the most important markets in the dataset.**
 
----
-
-# Conclusion
-
-This project helped strengthen my understanding of:
-
-- Excel dashboard development
-- Data visualization
-- Pivot tables and pivot charts
-- Interactive reporting
-- Sales trend analysis
-- Business intelligence concepts
-
----
+**Customer growth increased steadily throughout the analysis period, with the highest customer count recorded in 2017. Sales also exhibited seasonal patterns, with revenue peaking toward the end of the year, particularly during November. Additionally, the dashboard highlighted that a relatively small group of customers generated a significant share of total profits.**
 
 # Files Included
 
