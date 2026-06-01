@@ -135,7 +135,7 @@ The dashboard includes slicers for:
 
 ---
 
-# Key Business Findings
+# Key Business Findings - 
 
 **The analysis revealed that Phones were the highest-selling product category, while the Technology segment generated the strongest profit growth over time. California contributed the highest sales among all states, making it one of the most important markets in the dataset.**
 
